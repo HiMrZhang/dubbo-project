@@ -14,14 +14,6 @@
         <module>dubbo-consumer</module>
     </modules>
 
-    <!-- 第一步：添加Springboot的parent -->
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <!--<version>1.5.7.RELEASE</version>-->
-        <version>2.0.2.RELEASE</version>
-    </parent>
-
     <!-- 设置我们项目的一些版本属性 -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
