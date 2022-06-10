@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <dubbo-spring-boot-starter>0.2.0</dubbo-spring-boot-starter>
-        <dubbo.version>2.5.3</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <zkclient.version>0.10</zkclient.version>
         <lombok.version>1.16.18</lombok.version>
         <spring-boot-dependencies.version>2.0.2.RELEASE</spring-boot-dependencies.version>
